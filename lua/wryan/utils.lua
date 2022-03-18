@@ -18,7 +18,7 @@ utils.load = function()
 
     vim.o.background = 'dark'
     vim.o.termguicolors = true
-    vim.g.colors_name = 'vscode'
+    vim.g.colors_name = 'wryan'
 
     local syntax = theme.load_syntax()
 
