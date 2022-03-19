@@ -16,7 +16,7 @@ local Git = require("wryan.Git")
 
 
 local skeletons = {
-    highlights, Treesitter, markdown, Git
+    Treesitter, markdown, Git
 }
 
 for _, skeleton in ipairs(skeletons) do
